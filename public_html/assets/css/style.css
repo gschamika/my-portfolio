@@ -11192,17 +11192,15 @@ pre {
   background: #fff;
   box-shadow: 2px 3px 10px rgba(206, 212, 218, 0.3);
   border-radius: 0.25rem;
-  max-width: 700px;
+  max-width: 850px;
   margin: 10px auto;
   padding: 20px 15px;
 }
 
 .testmonial-card img {
-  width: 80px;
-  height: 80px;
-  border-radius: 50%;
-  box-shadow: 2px 3px 10px rgba(206, 212, 218, 0.3);
-  margin-bottom: 30px;
+  width: 750px;
+  height: 300px;
+
 }
 
 .testmonial-card .title {
@@ -11215,14 +11213,11 @@ pre {
 }
 
 .carousel .carousel-indicators li {
-  width: 10px;
-  height: 10px;
+  background-color: #79A9F5;
+  width: 22px;
+  height: 22px;
   border-radius: 50%;
-  box-shadow: inset 1px 1px 10px rgba(173, 181, 189, 0.3), inset -1px -1px 7px rgba(173, 181, 189, 0.3);
-}
 
-.carousel .carousel-indicators li.active {
-  box-shadow: 0 0 5px rgba(108, 117, 125, 0.3);
 }
 
 .contact {
