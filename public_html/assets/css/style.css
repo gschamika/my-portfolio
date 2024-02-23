@@ -2776,8 +2776,8 @@ fieldset:disabled a.btn {
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #ff5c31;
-  border-color: #ff5224;
+  background-color: #575aff;
+  border-color: #575aff;
 }
 
 .btn-primary:focus, .btn-primary.focus {
@@ -2793,8 +2793,8 @@ fieldset:disabled a.btn {
 .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active,
 .show > .btn-primary.dropdown-toggle {
   color: #fff;
-  background-color: #ff5224;
-  border-color: #ff4817;
+  background-color: #575aff;
+  border-color: #575aff;
 }
 
 .btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary:not(:disabled):not(.disabled).active:focus,
@@ -2963,7 +2963,7 @@ fieldset:disabled a.btn {
 .btn-danger:not(:disabled):not(.disabled):active, .btn-danger:not(:disabled):not(.disabled).active,
 .show > .btn-danger.dropdown-toggle {
   color: #fff;
-  background-color: ;
+  background-color: #575aff;
   border-color: #f51f3a;
 }
 
@@ -3207,8 +3207,8 @@ fieldset:disabled a.btn {
 
 .btn-outline-danger:hover {
   color: #fff;
-  background-color: #F85C70;
-  border-color: #F85C70;
+  background-color: #575aff;
+  border-color: #575aff;
 }
 
 .btn-outline-danger:focus, .btn-outline-danger.focus {
@@ -5500,7 +5500,7 @@ a.badge:hover, a.badge:focus {
 
 a.badge-primary:hover, a.badge-primary:focus {
   color: #212529;
-  background-color: #ff5224;
+  background-color: #575aff;
 }
 
 a.badge-primary:focus, a.badge-primary.focus {
@@ -11032,7 +11032,7 @@ pre {
 }
 
 .socials .social-item:hover {
-  background: #79A9F5;
+  background: #575aff;
   color: #fff;
 }
 
